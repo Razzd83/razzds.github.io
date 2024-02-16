@@ -1,1 +1,1 @@
-# razzds-wiki_docs
+# razzds-wiki
