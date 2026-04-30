@@ -1,21 +1,18 @@
-plugins: [jekyll-remote-theme]
 remote_theme: carlosperate/jekyll-theme-rtd
-
 #github_docs_folder: false
-title: razzds.net
-description: razzds open-source documentation knowledge-base
-site_author: razzd83
-url: "https://razzds.net"
-repo_url: false
-edit_on_github: false
+#title: razzds.net
+#description: razzds open-source documentation knowledge-base
+#site_author: razzd83
+#url: "https://razzds.net"
+#repo_url: false
+#edit_on_github: false
 ##logo: "logo.png"
 ##favicon: "favicon.ico"
-sticky_navigation: false
+#sticky_navigation: false
 #collapse_navigation: true
 #navigation_depth: -1
 #includehidden: true
-titles_only: true
-
+#titles_only: true
 #nav_external_links:
 #  - section: External-links
 #  - title: Google Cloud Console
@@ -26,9 +23,8 @@ titles_only: true
 #    url: "https://ai.google.dev"
 #  - title: Google AI for Developers Documentation
 #    url: "https://ai.google.dev/gemini-api/docs"
-#
-prev_next_buttons_location: none
-search_enabled: false
+#prev_next_buttons_location: none
+#search_enabled: false
 #hljs_style: github
 #hljs_languages:
 #  - python
