@@ -1,11 +1,35 @@
 remote_theme: carlosperate/jekyll-theme-rtd
-
-# Theme settings:
-#site_author: Carlos Pereira Atencio
-#repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+github_docs_folder: false
+title: razzds.net
+description: razzds open-source documentation knowledge-base
+site_author: razzd83
+url: "https://razzds.net"
+repo_url: false
 edit_on_github: false
-#github_docs_folder: false
-sticky_navigation: true
-prev_next_buttons_location: bottom
+#logo: "logo.png"
+#favicon: "favicon.ico"
+sticky_navigation: false
+collapse_navigation: true
+navigation_depth: -1
+includehidden: true
+titles_only: true
+
+nav_external_links:
+  - section: External-links
+  - title: Google Cloud Console
+    url: "https://console.cloud.google.com"
+  - title: Google Cloud Documentation
+    url: "https://docs.cloud.google.com"
+  - title: Google AI for Developers
+    url: "https://ai.google.dev"
+  - title: Google AI for Developers Documentation
+    url: "https://ai.google.dev/gemini-api/docs"
+
+prev_next_buttons_location: none
 search_enabled: false
-hljs_style: github-gist
+hljs_style: github
+hljs_languages:
+  - python
+admonitions: true
+mermaid: false
+display_version: false
