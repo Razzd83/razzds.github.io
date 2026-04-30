@@ -79,17 +79,20 @@ To see all this in action, it is time to build the **QuantumRoast bug assistant 
 1.  Navigate to [Cloud Shell Editor](https://ide.cloud.google.com/)
 2.  If the terminal doesn't appear on the bottom of the screen, open it:
 3.  In the terminal, set your project with this command (replacing `YOUR_PROJECT_ID`):
-    *   Format:```
+    *   Format:
+        ```
         gcloud config set project YOUR_PROJECT_ID
         ```
         
-    *   Example:```
+    *   Example:
+        ```
         gcloud config set project lab-project-id-example
         ```
         
     *   If you can't remember your project ID:
         
-        *   You can list all your project IDs with:```
+        *   You can list all your project IDs with:
+            ```
             gcloud projects list | awk '/PROJECT_ID/{print $2}'
             ```
             
@@ -98,7 +101,8 @@ To see all this in action, it is time to build the **QuantumRoast bug assistant 
 4.  If prompted to authorize, click **Authorize** to continue. [Click to authorize Cloud Shell](https://codelabs.developers.google.com/static/codelabs/cloud-run/images/tools-make-an-agent/authorize_cloud_shell.png)
 5.  You should see this message:Updated property \[core/project\].
     If you see a `WARNING` and are asked `Do you want to continue (Y/N)?`, then you have likely entered the project ID incorrectly. Press `N`, press `Enter`, and try to run the `gcloud config set project` command again.
-6.  In the terminal, set `PROJECT_ID` environment variable to be used in later steps.```
+6.  In the terminal, set `PROJECT_ID` environment variable to be used in later steps.
+    ```
     export PROJECT_ID=$(gcloud config get project)
     ```
     
@@ -1071,11 +1075,13 @@ gcloud projects delete $GOOGLE_CLOUD_PROJECT
 
 You may also want to delete unnecessary resources from your cloudshell disk. You can:
 
-1.  Delete the codelab project directory:```
+1.  Delete the codelab project directory:
+    ```
     rm -rf ~/quantum-roast
     ```
     
-2.  Warning! This next action is can't be undone! If you would like to delete everything on your Cloud Shell to free up space, you can [delete your **whole**home directory](https://cloud.google.com/shell/docs/resetting-cloud-shell). Be careful that everything you want to keep is saved somewhere else.```
+2.  Warning! This next action is can't be undone! If you would like to delete everything on your Cloud Shell to free up space, you can [delete your **whole**home directory](https://cloud.google.com/shell/docs/resetting-cloud-shell). Be careful that everything you want to keep is saved somewhere else.
+    ```
     sudo rm -rf $HOME
     ```
 
