@@ -1,0 +1,3 @@
+# [Authenticate using 2-legged OAuth with auth manager](https://docs.cloud.google.com/iam/docs/auth-with-2lo.md.txt)
+
+...
