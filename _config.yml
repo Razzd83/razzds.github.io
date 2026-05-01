@@ -27,7 +27,7 @@ prev_next_buttons_location: none
 search_enabled: false
 #hljs_style: github
 #hljs_languages:
-  - python
+#  - python
 #admonitions: true
 mermaid: false
 #display_version: false
