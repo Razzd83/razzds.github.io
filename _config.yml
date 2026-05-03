@@ -1,4 +1,4 @@
-remote_theme: carlosperate/jekyll-theme-rtd
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 #github_docs_folder: false
 title: razzds.net
 description: razzds open-source documentation knowledge-base
@@ -8,9 +8,9 @@ description: razzds open-source documentation knowledge-base
 #edit_on_github: false
 ##logo: "logo.png"
 ##favicon: "favicon.ico"
-sticky_navigation: false
+#sticky_navigation: false
 #collapse_navigation: false
-navigation_depth: 4
+#navigation_depth: 4
 #includehidden: true
 #titles_only: true
 #nav_external_links:
@@ -24,10 +24,10 @@ navigation_depth: 4
 #  - title: Google AI for Developers Documentation
 #    url: "https://ai.google.dev/gemini-api/docs"
 #prev_next_buttons_location: none
-search_enabled: false
+#search_enabled: false
 #hljs_style: github
 #hljs_languages:
 #  - python
 #admonitions: true
-mermaid: false
+#mermaid: false
 #display_version: false
