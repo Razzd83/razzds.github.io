@@ -1,7 +1,6 @@
 ---
-title: Identities for agents
-url: https://docs.cloud.google.com/iam/docs/agent-identity-overview.md.txt
 sort: 1
+url: https://docs.cloud.google.com/iam/docs/agent-identity-overview.md.txt
 ---
 
 # Agent Identity overview
