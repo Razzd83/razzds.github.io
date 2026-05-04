@@ -1,36 +1,9 @@
-# [Manage Agent Identity auth providers](https://docs.cloud.google.com/iam/docs/manage-auth-providers.md.txt)
-
-> [!WARNING]
->
-> **Preview**
->
->
-> This feature is
->
-> subject to the "Pre-GA Offerings Terms" in the General Service Terms section of the
-> [Service Specific
-> Terms](https://docs.cloud.google.com/terms/service-terms#1).
->
-> Pre-GA features are available "as is" and might have limited support.
->
-> For more information, see the
-> [launch stage descriptions](https://cloud.google.com/products/#product-launch-stages).
-
-> [!WARNING]
->
-> **Preview**
->
->
-> This feature is
->
-> subject to the "Pre-GA Offerings Terms" in the General Service Terms section of the
-> [Service Specific
-> Terms](https://docs.cloud.google.com/terms/service-terms#1).
->
-> Pre-GA features are available "as is" and might have limited support.
->
-> For more information, see the
-> [launch stage descriptions](https://cloud.google.com/products/#product-launch-stages).
+---
+title: "Manage Agent Identity auth providers"
+source: "https://docs.cloud.google.com/iam/docs/manage-auth-providers.md.txt"
+sort: 6
+---
+# Manage Agent Identity auth providers
 
 In Agent Identity auth manager, you manage auth providers by editing their
 details, enabling or disabling them, or deleting them when they are no longer needed.
@@ -83,11 +56,6 @@ Google Cloud console or the Google Cloud CLI.
 ### Console
 
 1. In the Google Cloud console, go to the **Agent Registry** page.
-
-   <br />
-
-   <br />
-
    [Go to Agent Registry](https://console.cloud.google.com/agent-platform/agent-registry/agents)
 2. Click the name of the agent whose auth provider that you want to manage.
 3. Click **Identity**.
@@ -124,11 +92,6 @@ any time.
 ### Console
 
 1. In the Google Cloud console, go to the **Agent Registry** page.
-
-   <br />
-
-   <br />
-
    [Go to Agent Registry](https://console.cloud.google.com/agent-platform/agent-registry/agents)
 2. Click the name of the agent whose auth provider that you want to manage.
 3. Click **Identity**.
@@ -164,11 +127,6 @@ auth provider within 30 days.
 ### Console
 
 1. In the Google Cloud console, go to the **Agent Registry** page.
-
-   <br />
-
-   <br />
-
    [Go to Agent Registry](https://console.cloud.google.com/agent-platform/agent-registry/agents)
 2. Click the name of the agent whose auth provider that you want to manage.
 3. Click **Identity**.
@@ -196,11 +154,6 @@ deletion. After 30 days, the auth provider is permanently deleted.
 ### Console
 
 1. In the Google Cloud console, go to the **Agent Registry** page.
-
-   <br />
-
-   <br />
-
    [Go to Agent Registry](https://console.cloud.google.com/agent-platform/agent-registry/agents)
 2. Click the name of the agent whose auth provider that you want to manage.
 3. Click **Identity**.

@@ -1,20 +1,9 @@
-# [Authenticate using API key with auth manager](https://docs.cloud.google.com/iam/docs/auth-with-api-key.md.txt)
-
-> [!WARNING]
->
-> **Preview**
->
->
-> This feature is
->
-> subject to the "Pre-GA Offerings Terms" in the General Service Terms section of the
-> [Service Specific
-> Terms](https://docs.cloud.google.com/terms/service-terms#1).
->
-> Pre-GA features are available "as is" and might have limited support.
->
-> For more information, see the
-> [launch stage descriptions](https://cloud.google.com/products/#product-launch-stages).
+---
+title: "Authenticate using API key with auth manager"
+source: "https://docs.cloud.google.com/iam/docs/auth-with-api-key.md.txt"
+sort: 5
+---
+# Authenticate using API key with auth manager
 
 To let your agents authenticate to external tools like Google Maps or Weather
 APIs, configure outbound authentication using API key auth providers in
@@ -48,8 +37,6 @@ headers.
    roles](https://docs.cloud.google.com/iam/docs/granting-changing-revoking-access).
 
    [Enable the API](https://console.cloud.google.com/flows/enableapi?apiid=iamconnectors.googleapis.com)
-
-   <br />
 
 3. [Create and deploy an agent](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/runtime/quickstart-adk).
 

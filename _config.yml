@@ -1,5 +1,4 @@
 remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
-#github_docs_folder: false
 title: razzds.net
 description: razzds open-source documentation knowledge-base
 readme_index:
@@ -8,9 +7,9 @@ plugins: [jekyll-mentions]
 #site_author: razzd83
 #url: "https://razzds.net"
 #repo_url: false
-#edit_on_github: false
+edit_on_github: false
 ##logo: "logo.png"
-##favicon: "favicon.ico"
+favicon: ""
 #sticky_navigation: false
 #collapse_navigation: false
 #navigation_depth: 4
@@ -31,6 +30,5 @@ plugins: [jekyll-mentions]
 #hljs_style: github
 #hljs_languages:
 #  - python
-#admonitions: true
-#mermaid: false
-#display_version: false
+mermaid: false
+

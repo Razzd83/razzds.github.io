@@ -1,3 +1,0 @@
-# [Authenticate using 3-legged OAuth with auth manager](https://docs.cloud.google.com/iam/docs/auth-with-3lo.md.txt)
-
-...
