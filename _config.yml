@@ -2,6 +2,10 @@ remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 #github_docs_folder: false
 title: razzds.net
 description: razzds open-source documentation knowledge-base
+readme_index:
+  with_frontmatter: true
+plugins:
+  - jekyll-mentions
 #site_author: razzd83
 #url: "https://razzds.net"
 #repo_url: false
@@ -12,7 +16,7 @@ description: razzds open-source documentation knowledge-base
 #collapse_navigation: false
 #navigation_depth: 4
 #includehidden: true
-#titles_only: true
+titles_only: true
 #nav_external_links:
 #  - section: External-links
 #  - title: Google Cloud Console
