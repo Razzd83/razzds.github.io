@@ -1,4 +1,10 @@
-# [Authenticate using an agent's own authority](https://docs.cloud.google.com/iam/docs/auth-agent-own-identity.md.txt)
+---
+title: "Authenticate using an agent's own identity"
+source: "https://docs.cloud.google.com/iam/docs/auth-agent-own-identity.md.txt"
+sort: 2
+---
+
+# Authenticate using an agent's own authority
 
 Agents can access Google Cloud APIs and other resources by using their own
 authority. We recommend this method for agents that are hosted on Google Cloud
@@ -7,8 +13,9 @@ to interact with other Google Cloud services.
 When an agent acts on its own authority, it uses its primary [SPIFFE identity](https://docs.cloud.google.com/iam/docs/agent-identity-overview#spiffe-identity)
 to request Google Cloud access tokens.
 
-> [!NOTE]
-> **Note:** If you want your agent to access Google Cloud services on behalf of an end user, [Authenticate to services using 3-legged OAuth auth provider](https://docs.cloud.google.com/iam/docs/auth-with-3lo).
+```note
+If you want your agent to access Google Cloud services on behalf of an end user, [Authenticate to services using 3-legged OAuth auth provider](https://docs.cloud.google.com/iam/docs/auth-with-3lo).
+```
 
 ## Before you begin
 
