@@ -3,7 +3,6 @@ title: "Authenticate using an agent's own identity"
 source: "https://docs.cloud.google.com/iam/docs/auth-agent-own-identity.md.txt"
 sort: 2
 ---
-
 # Authenticate using an agent's own authority
 
 Agents can access Google Cloud APIs and other resources by using their own
