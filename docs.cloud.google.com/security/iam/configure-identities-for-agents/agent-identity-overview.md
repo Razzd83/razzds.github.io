@@ -1,10 +1,10 @@
 ---
-sort: 1
 title: Identities for agents
 url: https://docs.cloud.google.com/iam/docs/agent-identity-overview.md.txt
+sort: 1
 ---
 
-# [Agent Identity overview]
+# Agent Identity overview
 
 Agent Identity provides a strongly attested, cryptographic identity for each agent that is based on the [SPIFFE standard](https://docs.cloud.google.com/iam/docs/agent-identity-overview#spiffe-identity). With Agent Identity, your agent can securely authenticate to MCP servers, cloud resources, endpoints, and other agents, acting either on its own behalf or on behalf of an end user. Agent Identity uses the [agent's own credential](https://docs.cloud.google.com/iam/docs/agent-identity-overview#agent-credentials) and [Agent Identity auth manager](https://docs.cloud.google.com/iam/docs/agent-identity-overview#agent-auth-manager). You can use the auth manager to create and manage *auth providers*, which are the specific configurations used to acquire, manage, and secure API keys, OAuth client IDs, OAuth client secrets, and delegated end-user OAuth tokens.
 
