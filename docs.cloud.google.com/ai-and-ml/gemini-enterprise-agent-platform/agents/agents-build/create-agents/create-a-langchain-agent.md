@@ -1,0 +1,3 @@
+# [Create a LangChain agent](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/runtime/create-a-langchain-agent.md.txt)
+
+...

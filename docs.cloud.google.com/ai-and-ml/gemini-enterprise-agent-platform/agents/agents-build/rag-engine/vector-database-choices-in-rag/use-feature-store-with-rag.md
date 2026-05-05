@@ -1,0 +1,3 @@
+# [Use Vertex AI Feature Store in Gemini Enterprise Agent Platform RAG Engine](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/rag-engine/use-feature-store-with-rag)
+
+...

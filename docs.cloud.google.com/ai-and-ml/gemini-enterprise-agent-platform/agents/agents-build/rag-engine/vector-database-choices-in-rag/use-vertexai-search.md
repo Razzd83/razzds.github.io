@@ -1,0 +1,3 @@
+# [Use Gemini Enterprise Agent Platform Search as a retrieval backend using Gemini Enterprise Agent Platform RAG Engine](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/rag-engine/use-vertexai-search)
+
+...

@@ -1,0 +1,3 @@
+# [Use Document AI layout parser with Vertex AI RAG Engine](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/rag-engine/layout-parser-integration)
+
+...

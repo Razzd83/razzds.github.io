@@ -1,0 +1,3 @@
+# [Use the Count Tokens API](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/capabilities/get-token-count)
+
+...

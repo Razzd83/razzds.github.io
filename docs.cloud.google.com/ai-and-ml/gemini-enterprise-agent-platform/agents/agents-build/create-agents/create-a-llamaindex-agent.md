@@ -1,0 +1,3 @@
+# [Create a LlamaIndex Query Pipeline agent](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/runtime/create-a-llamaindex-agent.md.txt)
+
+...

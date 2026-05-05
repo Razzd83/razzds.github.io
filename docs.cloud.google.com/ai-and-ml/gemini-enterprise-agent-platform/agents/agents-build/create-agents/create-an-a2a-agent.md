@@ -1,0 +1,3 @@
+# [Create an Agent2Agent agent](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/runtime/create-an-a2a-agent.md.txt)
+
+...

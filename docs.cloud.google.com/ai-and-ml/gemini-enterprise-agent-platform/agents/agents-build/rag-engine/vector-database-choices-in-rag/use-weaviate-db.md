@@ -1,0 +1,3 @@
+# [Use a Weaviate database with Vertex AI RAG Engine](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/rag-engine/use-weaviate-db)
+
+...

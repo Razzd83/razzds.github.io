@@ -1,0 +1,3 @@
+# [Serverless mode](https://docs.cloud.google.com/gemini-enterprise-agent-platform/build/rag-engine/serverless-mode)
+
+...
