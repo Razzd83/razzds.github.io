@@ -1,6 +1,7 @@
 title: razzds.net
 description: razzds open-source documentation knowledge-base
-theme: jekyll-theme-read-the-docs
+remote_theme: https://github.com/Appdynamics/jekyll-rtd-theme
+#theme: jekyll-theme-read-the-docs
 readme_index:
   with_frontmatter: true
 plugins: [jekyll-mentions]
