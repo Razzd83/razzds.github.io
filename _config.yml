@@ -1,13 +1,13 @@
-#remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 title: razzds.net
 description: razzds open-source documentation knowledge-base
+#theme: null
 readme_index:
   with_frontmatter: true
 plugins: [jekyll-mentions]
 #site_author: razzd83
 #url: "https://razzds.net"
 #repo_url: false
-edit_on_github: false
+#edit_on_github: false
 ##logo: "logo.png"
 #favicon: ""
 #sticky_navigation: false
@@ -30,5 +30,3 @@ edit_on_github: false
 #hljs_style: github
 #hljs_languages:
 #  - python
-mermaid: false
-theme: null
