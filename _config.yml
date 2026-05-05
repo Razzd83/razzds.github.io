@@ -1,4 +1,4 @@
-remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
+#remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 title: razzds.net
 description: razzds open-source documentation knowledge-base
 readme_index:
@@ -9,7 +9,7 @@ plugins: [jekyll-mentions]
 #repo_url: false
 edit_on_github: false
 ##logo: "logo.png"
-favicon: ""
+#favicon: ""
 #sticky_navigation: false
 #collapse_navigation: false
 #navigation_depth: 4
@@ -31,4 +31,4 @@ favicon: ""
 #hljs_languages:
 #  - python
 mermaid: false
-
+theme: null
