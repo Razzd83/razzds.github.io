@@ -1,6 +1,6 @@
 title: razzds.net
 description: razzds open-source documentation knowledge-base
-#theme: null
+theme: jekyll-theme-read-the-docs
 readme_index:
   with_frontmatter: true
 plugins: [jekyll-mentions]
